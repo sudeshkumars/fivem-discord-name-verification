@@ -2,6 +2,10 @@
 
 This is a simple FiveM server script that verifies whether a player's FiveM in-game name matches their Discord nickname before allowing them to join the server. It helps enforce consistent identity across Discord and your FiveM community.
 
+
+<img width="1280" height="640" alt="Discord bots (1)" src="https://github.com/user-attachments/assets/ac6c6ad7-f216-4f65-aec2-dba71387865c" />
+
+
 ---
 Contact me: 
 Discord:dubbluu
